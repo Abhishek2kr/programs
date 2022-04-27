@@ -1,0 +1,17 @@
+* {
+    font-family: monospace;
+}
+
+.question {
+  background-color: darkslateblue;
+  color: #eee;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+code {
+    background-color: #eee;
+    font-family: courier, monospace;
+    border-radius: 3px;
+    padding: 0 3px;
+}
